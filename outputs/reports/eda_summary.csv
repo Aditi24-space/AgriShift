@@ -1,0 +1,11 @@
+metric,value
+district_year_observations,9839.0
+year_min,1997.0
+year_max,2015.0
+unique_state_labels,33.0
+unique_district_name_pairs,652.0
+mean_crop_richness,21.6695802418945
+median_crop_richness,22.0
+mean_normalized_evenness,0.48730453690610365
+mean_hhi_concentration,0.3787772514676364
+single_crop_observations,27.0
